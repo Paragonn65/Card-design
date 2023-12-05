@@ -1,0 +1,80 @@
+header{
+    border: 2px solid red;
+    background-color: blue;
+    text-align: center;
+    color: white;
+     height:100px; 
+}
+#calculator {
+    border: 1px solid black;
+    margin:auto;
+    text-align: center;
+    /* align-items: center; */
+    width: 50%;
+    height: 150px;
+    border-radius: 10px 8px;
+
+}
+#calculator{
+    margin-top: 20px;
+}
+#input-number{
+    border: 1.5px solid black;
+    height: 50px;
+    margin-top: 20px;
+    width: 20%;
+
+}
+div{
+    position: relative;
+    top:40px;
+}
+#btn-add{
+    background-color: blue;
+    height: 50px;
+    width: 7%;
+    position: relative;
+    bottom: 1.5rem;
+    right: 0.5rem;
+    color: white;
+}
+#btn-substract{
+    background-color: blue;
+    height: 50px;
+    width: 7%;
+    position: relative;
+    bottom: 1.5rem;
+    right: 0.5rem;
+    color: white;
+}
+#btn-multiply{
+    background-color: blue;
+    height: 50px;
+    width: 7%;
+    position: relative;
+    bottom: 1.5rem;
+    right: 0.5rem;
+    color: white;
+}
+#btn-divide{
+    background-color: blue;
+    height: 50px;
+    width: 7%;
+    position: relative;
+    bottom: 1.5rem;
+    right: 0.5rem;
+    color: white;
+}
+#results{
+    border: 1px solid black;
+    
+    width: 50%;
+    height: 150px;
+    border-radius: 10px 8px;
+    text-align: center;
+    margin: auto;
+    
+}
+#results{
+    margin-top: 20px;
+}
